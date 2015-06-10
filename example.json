@@ -1,0 +1,1 @@
+[{"title": "user","attributes": {"name": "string","phone": "integer"}},{"title": "product","attributes": {"name": "string","price": "integer"}}]
