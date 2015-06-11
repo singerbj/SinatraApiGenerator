@@ -1,1 +1,24 @@
-[{"title": "user","attributes": {"name": "string","phone": "integer"}},{"title": "product","attributes": {"name": "string","price": "integer"}}]
+[
+  {
+    "title":"user",
+    "attributes":{
+      "name":"string",
+      "phone":"string",
+      "age":"number"
+    }
+  },
+  {
+    "title":"car",
+    "attributes":{
+      "type":"string",
+      "year":"integer"
+    }
+  },
+  {
+    "title":"user_car",
+    "attributes":{
+      "user_id":"integer",
+      "car_id":"integer"
+    }
+  }
+]
